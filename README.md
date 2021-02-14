@@ -1,4 +1,4 @@
-![Sairaj Mishra](https://lh3.googleusercontent.com/proxy/Z2b6MITR9V6wNEt9MCd0I5wczIIovhhQJDYv2JsVmRi47EGEkx1vcd-s0V-Y1CeoDl2YUjf1Eh2dQJLP0sdZ7dga0fOSf3XvbwoXhBfOHX8vW6trwO_hTS4PqQT9CV1_lcbrkZRFH2MAGY_0gGo)
+![Sairaj Mishra](https://github.com/RIC1903/RIC1903/blob/main/1295-Albert-Einstein-Quote-Two-things-are-infinite-the-universe-and.jpg)
 
 ### Hi there 👋
 
