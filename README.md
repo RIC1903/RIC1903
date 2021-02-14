@@ -32,5 +32,5 @@ Want to collaborate? Hit me up:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 <br/><br/>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=apratimshukla6&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ric1903&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apratimshukla6&hide=TeX&theme=vue-dark)
