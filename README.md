@@ -33,5 +33,5 @@ Want to collaborate? Hit me up:
 
 <br/><br/>
 ## 👍 Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ric1903&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ric1903&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apratimshukla6&hide=TeX&theme=vue-dark)
