@@ -1,14 +1,22 @@
 ### Hi there 👋
 
 
-I'm Sairaj Mishra, a 3 year B.Tech Computer Science and Engineering Undergrad at VIT-Chennai. I'm a skilled Web Developer and App developer. Currently I'm learning and building projects focused primarily around Computer Vision and Deep Learning.<br /><br />
+I'm Sairaj Mishra, a 3 year B.Tech Computer Science and Engineering Undergrad at VIT-Chennai. I'm a skilled Web Developer and App developer. I'm a huge Deep Learning enthusiast and love exploring the field of Computer Vision.<br /><br />
 Want to collaborate? Hit me up:  
 [![Linkedin Badge](https://img.shields.io/badge/-sairajmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sairaj-mishra/)](https://www.linkedin.com/in/sairaj-mishra/)
 [![Gmail Badge](https://img.shields.io/badge/-rickysairaj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rickysairaj9@gmail.com)](mailto:rickysairaj9@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-sairaj.mishra19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sairaj.mishra19@gmail.com)](mailto:sairaj.mishra19@gmail.com)
 <br/><br/>
 
-## ⚡ Technologies 
+### 🤵 About Me 
+- 😀 A tech enthusiast who always is ready to listem and work on cool stuff
+- 🤓 I love accepting challenges and am a quick learner
+- 🚧 Currently working on a Q/A system using NLP and Infersent
+- 💪 I solve competitive coding problems to improve my problem sovling skills
+- ⚽ I love playing football, video games and watching MKBHD/LTT vids in my free time.
+
+<br/><br/>
+## ⚡ Skills
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
