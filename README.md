@@ -30,3 +30,6 @@ Want to collaborate? Hit me up:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+<br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apratimshukla6&hide=TeX&theme=vue-dark)
