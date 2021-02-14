@@ -12,7 +12,7 @@ Want to collaborate? Hit me up:
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React Native](https://img.shields.io/badge/-React-Native-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
