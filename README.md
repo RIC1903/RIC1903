@@ -1,3 +1,5 @@
+[![Sairaj Mishra](https://quotefancy.com/media/wallpaper/3840x2160/1295-Albert-Einstein-Quote-Two-things-are-infinite-the-universe-and.jpg)]
+
 ### Hi there 👋
 
 
@@ -30,8 +32,7 @@ Want to collaborate? Hit me up:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-
-<br/><br/>
+<br/>
 ## 👍 Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ric1903&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apratimshukla6&hide=TeX&theme=vue-dark)
