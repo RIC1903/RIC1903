@@ -13,7 +13,7 @@ Want to collaborate? Hit me up:
 ### 🤵 About Me 
 - 😀 A tech enthusiast who always is ready to listen and work on cool stuff
 - 🤓 I love accepting challenges and am a quick learner
-- 🚧 Currently working on a Q/A system using NLP and Infersent
+- 🚧 Currently a Research Intern at K7 Computing
 - 💪 I solve competitive coding problems to improve my problem sovling skills
 - ⚽ I love playing football, video games and watching MKBHD/LTT vids in my free time.
 
