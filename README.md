@@ -11,7 +11,7 @@ Want to collaborate? Hit me up:
 <br/><br/>
 
 ### 🤵 About Me 
-- 😀 A tech enthusiast who always is ready to listem and work on cool stuff
+- 😀 A tech enthusiast who always is ready to listen and work on cool stuff
 - 🤓 I love accepting challenges and am a quick learner
 - 🚧 Currently working on a Q/A system using NLP and Infersent
 - 💪 I solve competitive coding problems to improve my problem sovling skills
