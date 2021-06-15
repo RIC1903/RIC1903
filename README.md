@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-I'm Sairaj Mishra, a 3 year B.Tech Computer Science and Engineering Undergrad at VIT-Chennai. I'm a skilled Web Developer and App developer. I'm a huge Deep Learning enthusiast and love exploring the field of Computer Vision.<br /><br />
+I'm Sairaj Mishra, a 3 year B.Tech Computer Science and Engineering Undergrad at VIT-Chennai. I'm a  Web Developer and App developer and also love the field of Machine Learning and Deep Learning.<br /><br />
 Want to collaborate? Hit me up:  
 [![Linkedin Badge](https://img.shields.io/badge/-sairajmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sairaj-mishra/)](https://www.linkedin.com/in/sairaj-mishra/)
 [![Gmail Badge](https://img.shields.io/badge/-rickysairaj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rickysairaj9@gmail.com)](mailto:rickysairaj9@gmail.com)
