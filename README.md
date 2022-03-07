@@ -19,6 +19,7 @@ Want to collaborate? Hit me up:
 <br/><br/>
 ## ⚡ Skills
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
