@@ -12,9 +12,8 @@ Want to collaborate? Hit me up:
 
 ### 🤵 About Me 
 - 😀 A tech enthusiast who always is ready to learn and work on cool stuff
-- 🤓 I love accepting challenges and am a quick learner
-- 🚧 Currently a Research Intern at K7 Computing
-- 💪 I solve competitive coding problems to improve my problem sovling skills
+- 🤓 I'm very much interested to work on challenging and complex problems which are purpose driven
+- 🚧 Currently interning as a Software Engineer (Fullstack) @ J.P. Morgan Chase
 - ⚽ I love playing football, video games and watching MKBHD/LTT vids in my free time.
 
 <br/><br/>
